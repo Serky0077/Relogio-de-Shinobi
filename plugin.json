@@ -1,7 +1,8 @@
 {
+  "manifest_version": 1,
   "name": "Relogio Shinobi",
-  "entry": "index.html",
   "version": "1.0.0",
-  "description": "Plugin de tempo estilo Naruto para RPG",
-  "type": "full"
+  "description": "Plugin de tempo estilo Naruto onde 1s = 1min",
+  "type": "full",
+  "entry": "index.html"
 }
